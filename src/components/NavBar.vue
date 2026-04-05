@@ -6,6 +6,10 @@
           <img src="/images/logo.png" alt="MDA Works" class="h-8 w-auto" />
           <span
             class="w-8 h-8 bg-brand-accent rounded-lg flex items-center justify-center text-white text-sm"
+            >M</span
+          >
+          <span
+            class="w-8 h-8 bg-brand-accent rounded-lg flex items-center justify-center text-white text-sm"
             >MDA Works</span
           >
         </router-link>
