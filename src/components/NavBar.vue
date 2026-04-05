@@ -3,7 +3,7 @@
     <div class="container mx-auto px-6 py-4">
       <div class="flex justify-between items-center">
         <router-link to="/" class="text-2xl font-bold text-brand-dark flex items-center gap-2">
-          <img src="/images/logo.png" alt="MDA Works" class="h-8 w-auto" />
+          <!-- <img src="/images/logo.png" alt="MDA Works" class="h-8 w-auto" /> -->
           <span
             class="w-8 h-8 bg-brand-accent rounded-lg flex items-center justify-center text-white text-sm"
             >M</span
